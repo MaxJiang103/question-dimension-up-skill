@@ -48,9 +48,9 @@ Score the raw question on a 100-point scale:
 Ratings:
 
 - 0-30: 青铜级，初级/资料搜集型
-- 31-50: 白银下，表层业务问题
-- 51-70: 白银上，业务关系型
-- 71-90: 黄金级，商业洞察型
+- 31-50: 白银级，表层业务问题
+- 51-70: 黄金级，业务关系型
+- 71-90: 钻石级，商业洞察型
 - 91-100: 王者级，终局推演型
 
 Default to a stricter score than a generous one. A question should not exceed 50 unless it has at least one concrete business variable, such as customer segment, use case, CAC, retention, pricing, margin, channel, workflow, budget, competition, value chain, or unit economics. A question should not exceed 70 unless it contains or strongly implies a testable hypothesis and a structural lens. A question should not exceed 85 unless it touches profit pool, pricing power, KSF, endgame, or extreme scenario.
@@ -83,7 +83,7 @@ Good pattern:
 For higher-quality questions, still avoid flattery:
 
 ```text
-**76 分，黄金级，商业洞察型。**
+**76 分，钻石级，商业洞察型。**
 
 这个问题已经进入商业机制层，但还没有把变量压到利润池、定价权或极端竞争场景。主要问题属于「提问思维仍可继续压实」。
 ```

@@ -1,0 +1,4 @@
+interface:
+  display_name: "行业提问升维"
+  short_description: "Audit and upgrade industry questions with strategy SOP"
+  default_prompt: "我要启动提问升维。我的原始问题是：很多 AI 初创公司为什么会在平台期死掉？"
